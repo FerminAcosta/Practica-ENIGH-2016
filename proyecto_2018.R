@@ -1,4 +1,4 @@
-setwd("~/Desktop/Documentos/Tec/Enero2018/probabilidad/proyectoINEGI2017")
+setwd("~/proyectoINEGI2017")
 
 datos<-read.csv("ingresos.csv")
 summary(datos)
